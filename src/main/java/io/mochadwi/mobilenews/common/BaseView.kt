@@ -1,4 +1,4 @@
-package io.mochadwi.mobilenews
+package io.mochadwi.mobilenews.common
 
 interface BaseView<T> {
 
